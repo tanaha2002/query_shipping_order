@@ -1,0 +1,34 @@
+__label__Out_of_Domain how can i contact the seller directly
+__label__Delivery_Time how many days will it take for my order to get here
+__label__Shipping_Issues the package was delivered to my neighbor by mistake how do i get it
+__label__Delivery_Time will my order arrive on time
+__label__Out_of_Domain how do i unsubscribe from marketing emails
+__label__Out_of_Domain hahahaha i hope you fine
+__label__Out_of_Domain what is the capital of vietnam
+__label__Shipping_Issues why was my order delayed
+__label__Shipping_Issues i received an empty box what should i do
+__label__Order_Status what is the tracking number for my order
+__label__Order_Status has my order been picked up by the carrier
+__label__Out_of_Domain do you have any products made in the usa
+__label__Out_of_Domain can i view my purchase history
+__label__Shipping_Issues why does my package say its been returned to sender
+__label__Order_Status why is my order still not showing as shipped
+__label__Delivery_Time can i get sameday delivery for my order
+__label__Delivery_Time why is my order taking so long to arrive
+__label__Shipping_Issues why was my package sent back to the sender
+__label__Order_Status is my order on its way to the final destination
+__label__Shipping_Issues the carrier says they attempted delivery but i didnt receive anything
+__label__Order_Status can i check if my order has been shipped
+__label__Order_Status can you confirm if my order is in the shipping process
+__label__Delivery_Time why hasnt my order arrived yet
+__label__Order_Status is my order still being processed or has it shipped
+__label__Order_Status has my order been prepared for shipment
+__label__Order_Status did my order leave the warehouse
+__label__Delivery_Time whats the fastest delivery time for my order
+__label__Delivery_Time what time of day should i expect my package to be delivered
+__label__Order_Status can i receive live updates on my orders status
+__label__Shipping_Issues why did my order get lost
+__label__Shipping_Issues why was my order canceled
+__label__Shipping_Issues i received the wrong item in my shipment
+__label__Out_of_Domain how do i track my rewards points
+__label__Shipping_Issues why is my package marked as failed delivery

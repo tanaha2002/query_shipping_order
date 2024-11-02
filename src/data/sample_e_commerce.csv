@@ -1,0 +1,51 @@
+"orderid","customerid","customer_name","product_name","shipping_date_estimate","order_status","reason"
+1,1,Sakura Haruno,Iphone,"12/1/2023",Failed,Recipient refused package
+2,2,Kae,Camera,"12/5/2023",Delivered,""
+3,3,Gon Freecss,Fishing Rod,"11/18/2023",Shipped,""
+4,4,Zoro,Bag,"11/20/2023",Prepare for Shipment,""
+5,5,Yato,BigBag,"11/25/2023",Canceled,Payment issue
+6,6,Izuku,SmallBag,"11/23/2023",Delivered,""
+7,7,Mikasa Kan,Watch,"11/11/2023",Canceled,Customer changed their mind
+8,8,Rem,Sword,"11/29/2023",Delivered,""
+9,9,Goku,Ipad,"11/11/2023",Out for Delivery,""
+10,10,Kaneki Ken,Wing,"12/6/2023",Order Received,""
+11,7,Mikasa Kan,Nokia,"11/16/2023",Delivered,""
+12,11,Kirito,Alexa,"12/5/2023",Failed,Delivery attempted multiple times
+13,12,Lelouch,A bottle of water,"12/2/2023",Order Received,""
+14,13,Ichigo,Kimono,"11/6/2023",Prepare for Shipment,""
+15,6,Izuku,Necklace,"11/30/2023",Shipped,""
+16,4,Zoro,Keyboard,"11/28/2023",Out for Delivery,""
+17,14,Emilia,Mouse,"12/8/2023",Delivered,""
+18,15,Yagami,Moto,"11/27/2023",Delivered,""
+19,16,Levi Kan,Headphone,"11/10/2023",Failed,Recipient not available
+20,17,Beni,Samsung,"11/28/2023",Failed,Delivery attempted multiple times
+21,18,Eren,Pot,"11/26/2023",Order Received,""
+22,12,Lelouch,Plug,"12/10/2023",Out for Delivery,""
+23,19,Sasuke,Earring,"11/23/2023",Out for Delivery,""
+24,13,Ichigo,Lamp,"11/12/2023",Delivered,""
+25,20,Subaru,Desk Lamp,"12/11/2023",Out for Delivery,""
+26,21,Natsu ,Hub,"11/22/2023",Shipped,""
+27,22,Killua Kan,USB 64GB,"11/25/2023",Out for Delivery,""
+28,23,Edward ,Camera,"11/21/2023",Out for Delivery,""
+29,19,Sasuke,LED,"11/19/2023",Order Received,""
+30,24,Naruto,Router,"11/8/2023",Failed,Recipient not available
+31,1,Sakura Haruno,Ring,"12/1/2023",Shipped,""
+32,2,Kae,Piano,"11/28/2023",Delivered,""
+33,3,Gon Freecss,Guitar,"11/18/2023",Shipped,""
+34,4,Zoro,Smartwatch,"11/11/2023",Canceled,Customer changed their mind
+35,5,Yato,Sword,"11/25/2023",Canceled,Payment issue
+36,6,Izuku,Air Purifier,"11/12/2023",Delivered,""
+37,7,Mikasa Kan,USB-C Hub,"12/11/2023",Out for Delivery,""
+38,8,Rem,Charger,"11/29/2023",Delivered,""
+39,9,Goku,SSD,"11/12/2023",Delivered,""
+40,10,Kaneki Ken,HDD,"11/19/2023",Order Received,""
+41,18,Eren,Hard Disk,"11/26/2023",Order Received,""
+42,12,Lelouch,Smart Plug,"12/10/2023",Out for Delivery,""
+43,19,Sasuke,Earphone,"11/23/2023",Out for Delivery,""
+44,13,Ichigo,Desk,"11/12/2023",Delivered,""
+45,20,Subaru,USB-C Hub,"12/11/2023",Out for Delivery,""
+46,21,Natsu ,USB-C Hub,"11/22/2023",Failed,Recipient not available
+47,22,Killua Kan,Hub Converter,"11/25/2023",Out for Delivery,""
+48,23,Edward ,Megane,"11/21/2023",Failed,Delivery attempted multiple times
+49,10,Kaneki Ken,Eye lens,"12/6/2023",Order Received,""
+50,7,Mikasa Kan,Microphone,"11/16/2023",Delivered,""

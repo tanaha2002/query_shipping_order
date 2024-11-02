@@ -1,0 +1,670 @@
+__label__Order_Status is my order still in the warehouse
+__label__Order_Status be my order still in the storage warehouse
+__label__Order_Status to their order still in the line
+__label__Order_Status is one order still on this warehouse
+__label__Order_Status my is order in still warehouse the
+__label__Out_of_Domain do you offer customer support in other languages
+__label__Out_of_Domain do you offer client support in early languages
+__label__Out_of_Domain do you get similar support between other languages
+__label__Out_of_Domain do I see written support in other languages
+__label__Out_of_Domain do you customer offer support in other languages
+__label__Order_Status can you tell me the current status of my order
+__label__Order_Status can you tell pine tree state the current status of my ordination
+__label__Order_Status can you tell from the passenger status of my and
+__label__Order_Status can you pass me the import status with my order
+__label__Order_Status can you tell the me status current my of order
+__label__Delivery_Time will my order be delivered over the weekend
+__label__Delivery_Time will my monastic order be delivered concluded the weekend
+__label__Delivery_Time will my date be late in the weekend
+__label__Delivery_Time will my order ring gone for the weekend
+__label__Delivery_Time my will order delivered be over weekend the
+__label__Out_of_Domain where are your stores located
+__label__Out_of_Domain where are your stores located
+__label__Out_of_Domain where were available stores located
+__label__Out_of_Domain where are your neighbors today
+__label__Out_of_Domain where are your stores located
+__label__Out_of_Domain can i get a quote for a large order
+__label__Out_of_Domain can i get a quotation for a big order
+__label__Out_of_Domain can i buy you coffee for a large order
+__label__Out_of_Domain can i quote a quote for her large pool
+__label__Out_of_Domain can get a i quote for large a order
+__label__Delivery_Time is there any way to speed up my delivery
+__label__Delivery_Time is in that respect any way to hie upwardly my delivery
+__label__Delivery_Time is she any way of speed again my delivery
+__label__Delivery_Time is here any time to set up my delivery
+__label__Delivery_Time is way there any to speed up delivery my
+__label__Shipping_Issues the delivery company says my address is incorrect how can i fix this
+__label__Shipping_Issues the legal transfer fellowship says my address be incorrect how can i fix this
+__label__Shipping_Issues the phone company believes my address is incorrect how does someone fix this
+__label__Shipping_Issues the delivery company writes my address is incorrect please would i correct this
+__label__Shipping_Issues the delivery company my address says is incorrect can how i this fix
+__label__Delivery_Time can you give me a delivery date for my order
+__label__Delivery_Time can you give maine a delivery date for my social club
+__label__Delivery_Time could you give him a delivery date for some order
+__label__Delivery_Time can somebody get me a delivery date for my car
+__label__Delivery_Time can give me you a delivery date for order my
+__label__Out_of_Domain whats the best way to store this product
+__label__Out_of_Domain whats the honest way to lay in this product
+__label__Out_of_Domain whats the best places to store it she
+__label__Out_of_Domain whats the best specialty stores store its product
+__label__Out_of_Domain the whats best way store this to product
+__label__Out_of_Domain how do i write a product review
+__label__Out_of_Domain how do i publish a product review
+__label__Out_of_Domain how shall i write my product it
+__label__Out_of_Domain how do bloggers do good product review
+__label__Out_of_Domain do how i a write review product
+__label__Delivery_Time why is my delivery date different from what was initially promised
+__label__Delivery_Time wherefore embody my delivery date different from what be initially predict
+__label__Delivery_Time which is my first date different to it was initially promised
+__label__Delivery_Time why is my delivery method apart from what people initially known
+__label__Delivery_Time is why delivery my different date from was what initially promised
+__label__Order_Status how do i check the realtime status of my order
+__label__Order_Status how do i check the realtime status of my order
+__label__Order_Status where can you check the realtime status of his order
+__label__Order_Status how do can check his stock status on my order
+__label__Order_Status how do i check realtime the status of my order
+__label__Delivery_Time i need to know the expected delivery date for my order
+__label__Delivery_Time i need to fuck the expected speech date for my order
+__label__Delivery_Time i need to know her specific delivery day for my car
+__label__Delivery_Time i need also know the last delivery date for any packages
+__label__Delivery_Time Need I to the know delivery expected date for order my
+__label__Out_of_Domain where can i find sizing information for your clothing
+__label__Out_of_Domain where can i find sizing information for your habiliment
+__label__Out_of_Domain and can i find any supplies for your clothing
+__label__Out_of_Domain where I easily find sizing information across your clothing
+__label__Out_of_Domain where can find i information for sizing your clothing
+__label__Delivery_Time what is the estimated delivery time for my order
+__label__Delivery_Time what is the estimated delivery time for my ordination
+__label__Delivery_Time below is the estimated return time of my order
+__label__Delivery_Time what is their estimated delivery timetable around my order
+__label__Delivery_Time is what the estimated delivery time order for my
+__label__Shipping_Issues why was my order returned to the sender
+__label__Shipping_Issues why be my order come back to the sender
+__label__Shipping_Issues why not i letter returned to the sender
+__label__Shipping_Issues why got my house returned to the seller
+__label__Shipping_Issues why was my returned order to the sender
+__label__Out_of_Domain whats the minimum quantity for wholesale orders
+__label__Out_of_Domain whats the minimal quantity for wholesale fiat
+__label__Out_of_Domain whats the last test for lower orders
+__label__Out_of_Domain whats your minimum quantity from wholesale consumption
+__label__Out_of_Domain whats quantity minimum the for wholesale orders
+__label__Delivery_Time how can i track the exact arrival time of my order
+__label__Delivery_Time how can i chase the exact arrival sentence of my order
+__label__Delivery_Time how about i track down early passing time of my order
+__label__Delivery_Time how would i impact the daily arrival time of my child
+__label__Delivery_Time Can how i track the exact arrival time my of order
+__label__Order_Status is my order out for delivery
+__label__Order_Status is my order tabu for bringing
+__label__Order_Status is to order out or delivery
+__label__Order_Status is next order up for delivery
+__label__Order_Status my is order out delivery for
+__label__Order_Status when was my order shipped
+__label__Order_Status when was my order ship
+__label__Order_Status when was college education shipped
+__label__Order_Status when ordered his order shipped
+__label__Order_Status when was my order shipped
+__label__Out_of_Domain how do i delete my account
+__label__Out_of_Domain how do i delete my report
+__label__Out_of_Domain how do u use our account
+__label__Out_of_Domain how do we delete your account
+__label__Out_of_Domain how do delete my i account
+__label__Order_Status what is the shipping status of my order
+__label__Order_Status what equal the ship status of my rescript
+__label__Order_Status data regarding the shipping status of my world
+__label__Order_Status what is the shipping info about my article
+__label__Order_Status Is what the shipping status my order of
+__label__Delivery_Time whats the delivery time frame for my order
+__label__Delivery_Time whats the deliverance time skeleton for my edict
+__label__Delivery_Time called it delivery time required for my order
+__label__Delivery_Time whats the delivery time different from my book
+__label__Delivery_Time whats the delivery time for order frame my
+__label__Order_Status can i get a confirmation that my order has shipped
+__label__Order_Status can i contract a check that my order make shipped
+__label__Order_Status can i get a way that my mobile be shipped
+__label__Order_Status can i confirm a confirmation since my order has risen
+__label__Order_Status I can a get confirmation that my has order shipped
+__label__Out_of_Domain how long does it take to process a refund
+__label__Out_of_Domain how long do it take to process a refund
+__label__Out_of_Domain how long might it take to create a n
+__label__Out_of_Domain how does it it mean to process a refund
+__label__Out_of_Domain long how does it take to a refund process
+__label__Delivery_Time how can i find out when my order will be delivered
+__label__Delivery_Time how can i regain out when my order testament be deliver
+__label__Delivery_Time only can i find out when your death will be [UNK]
+__label__Delivery_Time how bout i do it when my order will take delivered
+__label__Delivery_Time how i can find out my when will order delivered be
+__label__Shipping_Issues my package is missing can you help
+__label__Shipping_Issues my software program make up lack can you help
+__label__Shipping_Issues my package has gone can you say
+__label__Shipping_Issues my mom is missing cant we help
+__label__Shipping_Issues package my is missing help can you
+__label__Order_Status has my order been dispatched yet
+__label__Order_Status has my order been dispatched so far
+__label__Order_Status has its order been delayed yet
+__label__Order_Status has your order been blocked yet
+__label__Order_Status has order my dispatched been yet
+__label__Out_of_Domain can i modify an order after placing it
+__label__Out_of_Domain rump i modify an order after placing information technology
+__label__Out_of_Domain users individually modify an object after placing it
+__label__Out_of_Domain can i delete an assignment after creating it
+__label__Out_of_Domain I can an modify after order placing it
+__label__Delivery_Time what date will my order be delivered
+__label__Delivery_Time what date bequeath my ordination be delivered
+__label__Delivery_Time when date will your order have delivered
+__label__Delivery_Time what date and my birthday be?
+__label__Delivery_Time what date my will delivered order be
+__label__Order_Status has my order been handed over to the courier
+__label__Order_Status has my ordination been hand over to the courier
+__label__Order_Status has our order been conveyed over to our courier
+__label__Order_Status has its order now handed over to this courier
+__label__Order_Status has my handed order been over to courier the
+__label__Out_of_Domain how do i cancel my subscription
+__label__Out_of_Domain how do i cancel my subscription
+__label__Out_of_Domain or do i cancel that subscription
+__label__Out_of_Domain how yo best cancel my subscription
+__label__Out_of_Domain how i do cancel subscription my
+__label__Delivery_Time when will my package arrive if its been delayed
+__label__Delivery_Time when will my package arrive if its represent delay
+__label__Delivery_Time when will you beloved arrive if she been delayed
+__label__Delivery_Time when will my package survive if already been claimed
+__label__Delivery_Time when my will arrive package if its delayed been
+__label__Order_Status is my order still processing
+__label__Order_Status is my orderliness still processing
+__label__Order_Status is his order still when
+__label__Order_Status is my power still out
+__label__Order_Status is order my processing still
+__label__Shipping_Issues the package arrived with some items missing what do i do
+__label__Shipping_Issues the package arrive with some detail leave out what do i do
+__label__Shipping_Issues mail package filled with all items missing what did i do
+__label__Shipping_Issues the police back with some clothes missing what would i do
+__label__Shipping_Issues arrived the package some with missing items what do i do
+__label__Shipping_Issues my package was delayed due to weather conditions can i get an update
+__label__Shipping_Issues my software was delayed due to endure status can i get an update
+__label__Shipping_Issues my hand was dropped due to weather conditions then i get an m
+"__label__Shipping_Issues my package was delayed going to weather updates, please get an update"
+__label__Shipping_Issues package my was due delayed to weather conditions i can an get update
+__label__Order_Status where is my order
+__label__Order_Status where is my ordination
+__label__Order_Status firearms are my order
+__label__Order_Status where stored my database
+__label__Order_Status where is my order
+__label__Out_of_Domain can i change my account email address
+__label__Out_of_Domain put up i switch my account email address
+__label__Out_of_Domain can i terminate this account and address
+__label__Out_of_Domain can i save my account here??
+__label__Out_of_Domain can change i my email address account
+__label__Shipping_Issues the package is marked as undeliverable what should i do
+__label__Shipping_Issues the software represent marked as undeliverable what should i answer
+__label__Shipping_Issues the door is marked before well what would i do
+__label__Shipping_Issues the reply is marked as follows what should they give
+__label__Shipping_Issues The package is as marked undeliverable what should i do
+__label__Order_Status is my order on hold for any reason
+__label__Order_Status is my ordering on hold for any reasonableness
+__label__Order_Status is my father explain how for any reason
+__label__Order_Status is my order on line to this reason
+__label__Order_Status is order my on hold any reason for
+__label__Shipping_Issues my tracking shows that my package was delivered but i didnt receive it
+__label__Shipping_Issues my tracking shows that my computer software personify deliver but i didnt receive it
+__label__Shipping_Issues my car shows that a car was bought but i not receive it
+__label__Shipping_Issues my scanner shows that another package was in though i didnt receive it
+__label__Shipping_Issues tracking my shows my that package delivered was but i receive didnt it
+__label__Out_of_Domain what are your store hours
+__label__Out_of_Domain what are your stock hour
+__label__Out_of_Domain what in your store you
+__label__Out_of_Domain what is your normal hours
+__label__Out_of_Domain your what are store hours
+__label__Delivery_Time is there any delay in the delivery of my order
+__label__Delivery_Time is on that point any delay in the delivery of my club
+__label__Delivery_Time is there any delay between the performance of his order
+__label__Delivery_Time is there any problems during the delivery of their order
+__label__Delivery_Time is delay there any the in delivery of my order
+__label__Shipping_Issues my order was delivered to the wrong address what should i do
+__label__Shipping_Issues my order was delivered to the wrong address what should i do
+__label__Shipping_Issues my order be delivered to the wrong side why should you do
+__label__Shipping_Issues my order was delivered thru the UPS store so should i do
+__label__Shipping_Issues order my was delivered to address wrong the what should i do
+__label__Shipping_Issues the delivery was rescheduled without my consent why
+__label__Shipping_Issues the saving be rescheduled without my consent why
+__label__Shipping_Issues our delivery was rescheduled without her learning why
+__label__Shipping_Issues the ruling and rescheduled per my consent why
+__label__Shipping_Issues the delivery rescheduled was without my consent why
+__label__Delivery_Time when should i expect delivery
+__label__Delivery_Time when should i expect delivery
+__label__Delivery_Time when should i sign something
+__label__Delivery_Time when did i see delivery
+__label__Delivery_Time when should i expect delivery
+__label__Delivery_Time can you tell me when i should expect my package
+__label__Delivery_Time can you tell me when i should await my parcel
+__label__Delivery_Time and you tell me when he should expect my...
+__label__Delivery_Time can you ask me when i might check my package
+__label__Delivery_Time can tell you me when i should expect my package
+__label__Out_of_Domain what is your refund policy for digital products
+__label__Out_of_Domain what is your repayment insurance for digital product
+__label__Out_of_Domain what is then discount amount for digital products
+__label__Out_of_Domain what is retailer refund policy in recalled products
+__label__Out_of_Domain what is your for refund digital policy products
+__label__Delivery_Time can i get an exact time for my delivery
+__label__Delivery_Time can i get an accurate time for my livery
+__label__Delivery_Time can i get an extra point about my delivery
+__label__Delivery_Time can never get the exact time for its delivery
+__label__Delivery_Time can i an get time exact for delivery my
+__label__Order_Status why is my order showing as pending shipment
+__label__Order_Status why is my decree demonstrate as pending shipment
+__label__Order_Status neither is such statement showing as pending shipment
+__label__Order_Status why show our order showing as the shipment
+__label__Order_Status why order is my showing pending as shipment
+__label__Delivery_Time how do i know if my package will arrive today
+__label__Delivery_Time how do i know if my package bequeath arrive today
+__label__Delivery_Time how does i know if my package may arrive here
+__label__Delivery_Time how can i know if my email will arrive …
+__label__Delivery_Time how i do know if my package today will arrive
+__label__Delivery_Time are there any delivery delays for my order
+__label__Delivery_Time are there any livery delays for my orderliness
+__label__Delivery_Time aren there any delivery numbers for my own
+__label__Delivery_Time are currently being delivery delays for another order
+__label__Delivery_Time Are there any delivery delays for order my
+__label__Delivery_Time why does it say my delivery has been rescheduled
+__label__Delivery_Time wherefore does it say my delivery has exist rescheduled
+__label__Delivery_Time why does god sound my delivery got been me
+__label__Delivery_Time why might it disappear after delivery a been rescheduled
+__label__Delivery_Time does it why say my has delivery been rescheduled
+__label__Delivery_Time could you provide an estimated delivery time based on my location
+__label__Delivery_Time could you provide an estimated delivery fourth dimension based on my location
+__label__Delivery_Time then you provide an estimated safe distance based towards my location
+__label__Delivery_Time could only calculate an accurate delivery time based in my location
+__label__Delivery_Time You could an provide estimated delivery time based on my location
+__label__Shipping_Issues the order status says incomplete delivery what does that mean
+__label__Shipping_Issues the order condition says incomplete speech what set that mean
+__label__Shipping_Issues some more it says incomplete delivery what does that mean
+__label__Shipping_Issues the build status says awaiting delivery which does that mean
+__label__Shipping_Issues the order status says incomplete delivery does what that mean
+__label__Out_of_Domain can you please tell me weather today
+__label__Out_of_Domain can you delight tell pine tree state weather today
+__label__Out_of_Domain can she please tell my weather if
+__label__Out_of_Domain can everyone please tell about everything today
+__label__Out_of_Domain you can tell please me today weather
+__label__Out_of_Domain do you offer gift cards
+__label__Out_of_Domain serve you extend gift cards
+__label__Out_of_Domain others additionally offer gift cards
+__label__Out_of_Domain do you sell pokemon cards
+__label__Out_of_Domain do you offer gift cards
+__label__Shipping_Issues the shipping address on my order is incorrect can i fix it
+__label__Shipping_Issues the shipping destination on my order is wrong can i fix it
+__label__Shipping_Issues the shipping address on my page on it can i fix online
+__label__Shipping_Issues the shipping address For my email if incorrect can i fix i
+__label__Shipping_Issues Shipping the address on my order is incorrect can i it fix
+__label__Out_of_Domain do you offer international shipping
+__label__Out_of_Domain practise you offer outside shipping
+__label__Out_of_Domain why you do international shipping
+__label__Out_of_Domain do or offer internet shipping
+__label__Out_of_Domain do offer you shipping international
+__label__Order_Status can i see a detailed history of my orders shipment
+__label__Order_Status can i envision a elaborate history of my orders shipment
+__label__Order_Status can i see his real history for my orders shipment
+__label__Order_Status can please see a detailed explanation of my orders next
+__label__Order_Status can i see a detailed history of my shipment orders
+__label__Order_Status has my package reached the local delivery office
+__label__Order_Status has my package reached the local delivery post
+__label__Order_Status has that package reached the latest delivery if
+__label__Order_Status has my inquiry reached his local government office
+__label__Order_Status has package my reached the delivery office local
+__label__Delivery_Time can you give me a delivery estimate
+__label__Delivery_Time give notice you give me a obstetrical delivery estimate
+__label__Delivery_Time may you give me a break tonight
+__label__Delivery_Time can you give me another walking stick
+__label__Delivery_Time you can give me estimate a delivery
+__label__Out_of_Domain what are the benefits of signing up for your newsletter
+__label__Out_of_Domain what be the benefit of signing up for your newsletter
+__label__Out_of_Domain and are the benefits by signing up for that newsletter
+__label__Out_of_Domain what 5 major benefits of signing up for your survey
+__label__Out_of_Domain what are the of signing benefits up for newsletter your
+__label__Out_of_Domain do you have any seasonal promotions
+__label__Out_of_Domain do you have any seasonal promotional material
+__label__Out_of_Domain do i have new seasonal promotions
+__label__Out_of_Domain do you have serious seasonal allergies
+__label__Out_of_Domain you do have any promotions seasonal
+__label__Out_of_Domain do you offer a student discount
+__label__Out_of_Domain execute you offer a scholarly person discount
+__label__Out_of_Domain do you feel a double discount
+__label__Out_of_Domain do you offer a housing loan
+__label__Out_of_Domain you do offer student a discount
+__label__Order_Status has my order reached my city yet
+__label__Order_Status has my order make my city yet
+__label__Order_Status before my order joined my city or
+__label__Order_Status has any order reached their attorney yet
+__label__Order_Status My order has reached my yet city
+__label__Out_of_Domain i want to buy a new laptop
+__label__Out_of_Domain i need to buy a modern laptop computer
+__label__Out_of_Domain i like to buy a happy me
+__label__Out_of_Domain i want go find a real laptop
+__label__Out_of_Domain i to want a buy laptop new
+__label__Shipping_Issues why is my order stuck in customs
+__label__Shipping_Issues why is my order stuck in impost
+__label__Shipping_Issues i is my family stuck in this
+__label__Shipping_Issues why once my husband stuck outside customs
+__label__Shipping_Issues is why order my stuck customs in
+__label__Out_of_Domain whats the status of my product return
+__label__Out_of_Domain whats the status of my product return key
+__label__Out_of_Domain keep the status of last product now
+__label__Out_of_Domain whats legal status of your possible return
+__label__Out_of_Domain whats status the of my product return
+__label__Shipping_Issues my package has been stuck in transit for days
+__label__Shipping_Issues my packet has been stuck in transit for days
+__label__Shipping_Issues some package still been stuck in transit for well
+__label__Shipping_Issues my package has be stuck in transit 6 years
+__label__Shipping_Issues package my has been stuck in transit for days
+__label__Order_Status how can i track my order
+__label__Order_Status how can i track my order
+__label__Order_Status how can i obey an order
+__label__Order_Status how can Verizon track my phone
+__label__Order_Status how i can track order my
+__label__Out_of_Domain how can i apply a discount code to my purchase
+__label__Out_of_Domain how can i apply a deduction code to my purchase
+__label__Out_of_Domain how have i apply enough discount premium to my purchase
+__label__Out_of_Domain how can people apply a QR code inside my purchase
+__label__Out_of_Domain how can i apply discount a code to my purchase
+__label__Order_Status is my order in transit
+__label__Order_Status is my order in transportation system
+__label__Order_Status said my lord in transit
+__label__Order_Status is public order as transit
+__label__Order_Status is my transit order in
+__label__Out_of_Domain how can i update my billing information
+__label__Out_of_Domain how send away i update my billing data
+__label__Out_of_Domain or can i keep my security information
+__label__Out_of_Domain how can i obtain current status information
+__label__Out_of_Domain Can how update my i billing information
+__label__Shipping_Issues there was a problem with my delivery can you resolve it
+__label__Shipping_Issues there was a problem with my delivery crapper you solve it
+__label__Shipping_Issues there was something call regarding my delivery can you resolve please
+__label__Shipping_Issues there was another fault with my delivery can you reproduce this
+__label__Shipping_Issues Was there problem a with my you delivery can resolve it
+__label__Delivery_Time why is my order late
+__label__Delivery_Time wherefore is my guild late
+__label__Delivery_Time why not my call late
+__label__Delivery_Time why send the order late
+__label__Delivery_Time My why is order late
+__label__Delivery_Time how soon can i expect my package to be delivered
+__label__Delivery_Time how soon derriere i bear my package to be delivered
+__label__Delivery_Time so very can i expect my package to be...
+__label__Delivery_Time how quickly can you expect my package o be delivered
+__label__Delivery_Time can how soon expect i my package to be delivered
+__label__Order_Status has my order been shipped with express delivery
+__label__Order_Status take my order personify shipped with express delivery
+__label__Order_Status as my order been delivered under express delivery
+__label__Order_Status has every order electronically cancelled with express delivery
+__label__Order_Status has order my been express shipped with delivery
+__label__Delivery_Time when is my package coming
+__label__Delivery_Time when is my package amount
+__label__Delivery_Time tonight is my flight coming
+__label__Delivery_Time when is my inquiry received
+__label__Delivery_Time is my when package coming
+__label__Shipping_Issues my order never arrived what can i do
+__label__Shipping_Issues my social club never arrived what can i do
+__label__Shipping_Issues when order was arrived what can i guess
+__label__Shipping_Issues my order never arrived why can my ask
+__label__Shipping_Issues Order my arrived never what i can do
+__label__Order_Status is my package on the way
+__label__Order_Status be my package on the way
+__label__Order_Status is my body on the beach
+__label__Order_Status is my package on a shelf
+__label__Order_Status is package my on way the
+__label__Shipping_Issues i received a damaged package what now
+__label__Shipping_Issues iodin received a damage package what straightaway
+__label__Shipping_Issues i received a nice package it was
+__label__Shipping_Issues i received a wooden boat what next
+__label__Shipping_Issues received I damaged a package now what
+__label__Order_Status what is the current location of my package
+__label__Order_Status what is the current location of my package
+__label__Order_Status and with her current location of my package
+__label__Order_Status what is the current version @ this package
+__label__Order_Status is what the current location package of my
+__label__Out_of_Domain are there any additional taxes on my purchase
+__label__Out_of_Domain are there any extra tax on my purchase
+__label__Out_of_Domain are there other additional restrictions on additional purchase
+__label__Out_of_Domain are there any additional patterns in my income
+__label__Out_of_Domain are there any taxes additional purchase on my
+__label__Shipping_Issues the package is damaged and i need a replacement what should i do
+__label__Shipping_Issues the software program is damage and i need a replacement what should i do
+__label__Shipping_Issues the house looked damaged and i need no replacement phone should i do
+__label__Shipping_Issues the package thats damaged badly will need a replacement what should investors do
+__label__Shipping_Issues Package the is damaged i and need a what replacement i should do
+__label__Delivery_Time how many business days will it take for my order to be delivered
+__label__Delivery_Time how many business organization day will it take for my order to embody delivered
+__label__Delivery_Time how several business days will today take for my order gets get delivered
+__label__Delivery_Time how many business calls will still costs for my order to take delivered
+__label__Delivery_Time how business many will days it take my for order to delivered be
+__label__Delivery_Time when should i expect my order considering it was shipped yesterday
+__label__Delivery_Time when should i expect my order considering information technology represent shipped yesterday
+__label__Delivery_Time when should i expect my order and they usually shipped only
+__label__Delivery_Time when should u expect money order as it already shipped yesterday
+__label__Delivery_Time when i should expect my order considering was it shipped yesterday
+__label__Out_of_Domain whats the procedure for bulk orders
+__label__Out_of_Domain whats the operation for bulk guild
+__label__Out_of_Domain whats they use for bulk when
+__label__Out_of_Domain whats standard procedure to bulk sourcing
+__label__Out_of_Domain whats procedure the for orders bulk
+__label__Out_of_Domain can i order a sample product
+__label__Out_of_Domain can i order a sample intersection
+__label__Out_of_Domain can we order a dry product
+__label__Out_of_Domain can i order more sample t
+__label__Out_of_Domain I can order a product sample
+__label__Delivery_Time when is the earliest date i can receive my order
+__label__Delivery_Time when be the earliest date i prat receive my order
+__label__Delivery_Time 2021 is the due date i officially receive my order
+__label__Delivery_Time when is thee earliest date consumers can receive their order
+__label__Delivery_Time the when earliest is date i can receive my order
+__label__Order_Status can i get an update on my order status
+__label__Order_Status can i get an update on my order condition
+__label__Order_Status can i spare an update against his order status
+__label__Order_Status can i get the update on my last update
+__label__Order_Status can i get on an update my status order
+__label__Out_of_Domain hello who are you
+__label__Out_of_Domain hullo world health organization are you
+__label__Out_of_Domain hello here with you
+__label__Out_of_Domain hello friends are here
+__label__Out_of_Domain are hello who you
+__label__Shipping_Issues my package is stuck at a facility for a long time why
+__label__Shipping_Issues my package is stick at a facility for a retentive meter wherefore
+__label__Shipping_Issues my package is no at a keyboard in this long time why
+__label__Shipping_Issues my girl is stuck at this facility for that ridiculous time why
+__label__Shipping_Issues my package stuck at is for a facility a long time why
+__label__Order_Status can i see what stage my order is at
+__label__Order_Status potty i hear what stage my order is at
+__label__Order_Status can she see what place my boyfriend is at
+__label__Order_Status can then define what stage my order is then
+__label__Order_Status can i see what my order stage at is
+__label__Shipping_Issues ive been waiting too long for my package to arrive
+__label__Shipping_Issues ive been waiting too long for my package to go far
+__label__Shipping_Issues by not waiting too long for my package with fit
+__label__Shipping_Issues ive been waiting to long for my package ta happen
+__label__Shipping_Issues ive been waiting too for package long my to arrive
+__label__Out_of_Domain do you have a physical catalog
+__label__Out_of_Domain practice you possess a physical catalog
+__label__Out_of_Domain do you have any college catalog
+__label__Out_of_Domain do you have a complete breakdown
+__label__Out_of_Domain do have you physical a catalog
+__label__Order_Status has my order been packaged
+__label__Order_Status has my order be packaged
+__label__Order_Status was his order been packaged
+__label__Order_Status has this ring been packaged
+__label__Order_Status My has order packaged been
+__label__Order_Status is my order stuck in one location
+__label__Order_Status is my order adhere in i location
+__label__Order_Status is each order stuck outside another location
+__label__Order_Status is my order stuck outside China :(
+__label__Order_Status is my stuck order one location in
+__label__Out_of_Domain do you provide gift wrapping services
+__label__Out_of_Domain do you provide talent wrap services
+__label__Out_of_Domain do you have gift handling services
+__label__Out_of_Domain do you provide the wrapping service
+__label__Out_of_Domain do you provide services gift wrapping
+__label__Out_of_Domain where do you source your materials
+__label__Out_of_Domain where do you author your materials
+__label__Out_of_Domain where do i source your education
+__label__Out_of_Domain where do you source secondary outputs
+__label__Out_of_Domain Do where source you your materials
+__label__Out_of_Domain do you provide installation services
+__label__Out_of_Domain answer you allow installation services
+__label__Out_of_Domain do you want financial services
+__label__Out_of_Domain do you provide emotional help
+__label__Out_of_Domain Do you provide installation services
+__label__Order_Status whats the latest update on my orders location
+__label__Order_Status whats the latest update on my order location
+__label__Order_Status so the latest story on my current location
+__label__Order_Status whats a current update on my current location
+__label__Order_Status whats the latest my update on location orders
+__label__Shipping_Issues the tracking information hasnt updated in a while is there a problem
+__label__Shipping_Issues the get across information hasnt updated in a piece is there a job
+__label__Shipping_Issues google tracking protocol hasnt updated in full while is there a question
+__label__Shipping_Issues the computer information constantly updated quite a while is causing a problem
+__label__Shipping_Issues the tracking information hasnt updated in a is a there while problem
+__label__Shipping_Issues the tracking number isnt working properly can you check
+__label__Shipping_Issues the tail number isnt bring properly can you check
+__label__Shipping_Issues the tracking number isnt where it can be check
+__label__Shipping_Issues the tracking number isnt working which tells you it
+__label__Shipping_Issues the tracking number working isnt properly you check can
+__label__Shipping_Issues my package was damaged during delivery what should i do next
+__label__Shipping_Issues my software system make up damaged during delivery what should i do next
+__label__Shipping_Issues next package was marked after delivery but should i do next
+__label__Shipping_Issues my motorcycle was damaged during transport which should i do?
+__label__Shipping_Issues Package my was damaged delivery during what i should next do
+__label__Out_of_Domain how many distinct vietnam have
+__label__Out_of_Domain how many distinguishable vietnam have
+__label__Out_of_Domain how do distinct vietnam from
+__label__Out_of_Domain how communists divided vietnam armies
+__label__Out_of_Domain Many how vietnam distinct have
+__label__Shipping_Issues my package was refused by the recipient what happens now
+__label__Shipping_Issues my package was refused by the recipient what bechance like a shot
+__label__Shipping_Issues their approach was refused by the recipient what happens who
+__label__Shipping_Issues my package been deleted by the recipient what happens then
+__label__Shipping_Issues Package my was by refused the what recipient happens now
+__label__Shipping_Issues i need to report a missing package
+__label__Shipping_Issues i require to account a missing bundle
+__label__Shipping_Issues i need better see the missing package
+__label__Shipping_Issues i school must report a missing child
+__label__Shipping_Issues need I to missing report a package
+__label__Delivery_Time will my order be delivered by the end of this week
+__label__Delivery_Time testament my decree cost delivered by the end of this week
+__label__Delivery_Time will my order be delivered at my end of a yes
+__label__Delivery_Time will meet order fully delivered by tail end of one week
+__label__Delivery_Time my will be delivered order by the end this of week
+__label__Delivery_Time how long will it take for my order to be delivered
+__label__Delivery_Time how long will information technology take for my order to be deliver
+__label__Delivery_Time how easy can another be for my order to be delivered
+__label__Delivery_Time how much shall it cost for my order to be released
+__label__Delivery_Time long how it will take my order for to be delivered
+__label__Shipping_Issues there appears to be an issue with my shipment can you investigate
+__label__Shipping_Issues there appears to live an egress with my shipment sack you investigate
+__label__Shipping_Issues there appears to be an improvement with my shipment but no reply
+__label__Shipping_Issues there appears to be another accident with online shipment should you investigate
+__label__Shipping_Issues there appears to be an with issue my can shipment you investigate
+__label__Out_of_Domain how to solve this problem
+__label__Out_of_Domain how to resolve this trouble
+__label__Out_of_Domain how to solve chaos by
+__label__Out_of_Domain how too solve this hack
+__label__Out_of_Domain how solve to problem this
+__label__Out_of_Domain are your products environmentally friendly
+__label__Out_of_Domain are your products environmentally friendly
+__label__Out_of_Domain market your products buyer friendly
+__label__Out_of_Domain are your businesses environmentally sustainable
+__label__Out_of_Domain Your are environmentally products friendly
+__label__Delivery_Time how soon will my package be delivered
+__label__Delivery_Time how soon testament my package be have
+__label__Delivery_Time when soon is your package be delivered
+__label__Delivery_Time how shipped to my package and delivered
+__label__Delivery_Time How will soon my package be delivered
+__label__Out_of_Domain can i customize this product
+__label__Out_of_Domain toilet i customize this cartesian product
+__label__Out_of_Domain can software customize a product
+__label__Out_of_Domain can i have a product
+__label__Out_of_Domain can i product customize this
+__label__Order_Status has my order been shipped
+__label__Order_Status has my parliamentary law been ship
+__label__Order_Status on my order now shipped
+__label__Order_Status has my License been revoked
+__label__Order_Status Has my order been shipped
+__label__Shipping_Issues i havent received my order yet can you check what happened
+__label__Shipping_Issues ane havent received my decree yet seat you ascertain what happened
+__label__Shipping_Issues i havent received this order yet yet still check what when
+__label__Shipping_Issues i havent received his order yet and you tell what it
+__label__Shipping_Issues received I havent my order yet check can you what happened
+__label__Out_of_Domain what should i do if i forgot my password
+__label__Out_of_Domain what should i do if i block my password
+__label__Out_of_Domain where does he do if i forgot my password
+__label__Out_of_Domain what did i do if anybody changes my password
+__label__Out_of_Domain should what i do i if forgot password my
+__label__Out_of_Domain can i upgrade my membership tier
+__label__Out_of_Domain crapper i upgrade my membership tier up
+__label__Out_of_Domain can i use my power tier
+__label__Out_of_Domain can i upgrade my phone today
+__label__Out_of_Domain I can upgrade my tier membership
+__label__Out_of_Domain do you have any vegan product options
+__label__Out_of_Domain do you have any vegan ware choice
+__label__Out_of_Domain do you remember any vegan clubs online
+__label__Out_of_Domain do you provide any key product ranges
+__label__Out_of_Domain you do have any product options vegan
+__label__Shipping_Issues the item is marked as delivered but i didnt get it can you help
+__label__Shipping_Issues the item is marked as delivered but i didnt sire it can you assist
+__label__Shipping_Issues their number seemed marked as delivered but she didnt get it thank you help
+__label__Shipping_Issues the vehicle is marked auto delivered but i wont get one can u help
+__label__Shipping_Issues item is the marked as but delivered i get it didnt can you help
+__label__Delivery_Time can you confirm the delivery time for my order
+__label__Delivery_Time can you affirm the delivery time for my rescript
+__label__Delivery_Time can you confirm his delivery as from my order
+__label__Delivery_Time can not confirm the delivery time in her order
+__label__Delivery_Time can you confirm the delivery time for order my
+__label__Shipping_Issues i received a notification that my package was refused what happens next
+__label__Shipping_Issues i received a notification that my computer software was turn away what happens adjacent
+__label__Shipping_Issues i received general notification that my transfer was refused to was next
+__label__Shipping_Issues i received getting notice that the package was refused what happens then
+__label__Shipping_Issues a I received notification that package my was refused what next happens
+__label__Delivery_Time why is the delivery time longer than expected
+__label__Delivery_Time wherefore is the manner of speaking time longer than expect
+__label__Delivery_Time why is the clock take longer before expected
+__label__Delivery_Time why does the delivery time longer that if
+__label__Delivery_Time why is the longer delivery time expected than
+__label__Order_Status how can i confirm if my order has been picked up by the delivery service
+__label__Order_Status how buns i confirm if my holy order has be picked up by the saving service
+__label__Order_Status how can they confirm because my number has been picked up with the answering service
+__label__Order_Status how can i confirm if ur order is gone picked up by the RIGHT person
+__label__Order_Status how i can if confirm my has order picked been up by the service delivery
+__label__Out_of_Domain can i return an item without a receipt
+__label__Out_of_Domain can i render an particular without a receipt
+__label__Out_of_Domain can i want this item without a cause
+__label__Out_of_Domain can i get a item on a receipt
+__label__Out_of_Domain can return i an item without a receipt
+__label__Out_of_Domain can you share me your discount
+__label__Out_of_Domain can you portion pine tree state your discount
+__label__Out_of_Domain do you copy me your discount
+__label__Out_of_Domain can you send me your info
+__label__Out_of_Domain can you me share discount your
+__label__Delivery_Time when will my order arrive
+__label__Delivery_Time when will my ordination arrive
+__label__Delivery_Time when will my day before
+__label__Delivery_Time when will you order go
+__label__Delivery_Time will when my arrive order
+__label__Order_Status has my order been processed successfully
+__label__Order_Status has my order personify process successfully
+__label__Order_Status has my order data set successfully
+__label__Order_Status has its order be processed successfully
+__label__Order_Status has order my been successfully processed
+__label__Shipping_Issues why was my order split into multiple shipments
+__label__Shipping_Issues wherefore was my order split up into multiple shipments
+__label__Shipping_Issues there was my order split into pieces...
+__label__Shipping_Issues why was my order split through several sections
+__label__Shipping_Issues why was split my order into shipments multiple
+__label__Order_Status is my order waiting for shipment
+__label__Order_Status is my order waiting for despatch
+__label__Order_Status is its heart waiting for shipment
+__label__Order_Status is Amazon order up for shipment
+__label__Order_Status my order is waiting for shipment
+__label__Delivery_Time whats the expected delivery time for international orders
+__label__Delivery_Time whats the expected livery meter for international order
+__label__Delivery_Time compare the expected service time from international orders
+__label__Delivery_Time whats with expected travel time for international freight
+__label__Delivery_Time the whats expected delivery for time orders international
+__label__Shipping_Issues my package was delivered to the wrong place how can i retrieve it
+__label__Shipping_Issues my package be save to the wrong place how potty i retrieve information technology
+__label__Shipping_Issues my package is addressed to the manning family how can i retrieve it
+__label__Shipping_Issues my package was delivered here the wrong place i can Im retrieve that
+__label__Shipping_Issues my delivered package to was the wrong place how i can retrieve it

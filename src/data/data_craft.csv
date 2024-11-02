@@ -1,0 +1,169 @@
+Question,Label
+Where is my order?,Order Status
+Has my order been shipped?,Order Status
+Can you tell me the current status of my order?,Order Status
+Is my order in transit?,Order Status
+Has my order been dispatched yet?,Order Status
+How can I track my order?,Order Status
+What is the shipping status of my order?,Order Status
+Is my package on the way?,Order Status
+Can I get an update on my order status?,Order Status
+Did my order leave the warehouse?,Order Status
+Is my order still processing?,Order Status
+Is my order out for delivery?,Order Status
+Has my order been prepared for shipment?,Order Status
+Can I see what stage my order is at?,Order Status
+Is my order waiting for shipment?,Order Status
+Has my order been picked up by the carrier?,Order Status
+Can you confirm if my order is in the shipping process?,Order Status
+Has my order been packaged?,Order Status
+Is my order still being processed or has it shipped?,Order Status
+Can I check if my order has been shipped?,Order Status
+When will my order arrive?,Delivery Time
+How long will it take for my order to be delivered?,Delivery Time
+What is the estimated delivery time for my order?,Delivery Time
+Can you tell me when I should expect my package?,Delivery Time
+Why is my order taking so long to arrive?,Delivery Time
+When should I expect delivery?,Delivery Time
+Can you give me a delivery date for my order?,Delivery Time
+What’s the delivery time frame for my order?,Delivery Time
+Is there any delay in the delivery of my order?,Delivery Time
+Will my order arrive on time?,Delivery Time
+How many days will it take for my order to get here?,Delivery Time
+Why hasn’t my order arrived yet?,Delivery Time
+What date will my order be delivered?,Delivery Time
+Can you give me a delivery estimate?,Delivery Time
+When is my package coming?,Delivery Time
+Why is my order late?,Delivery Time
+I need to know the expected delivery date for my order.,Delivery Time
+How soon will my package be delivered?,Delivery Time
+How can I find out when my order will be delivered?,Delivery Time
+Are there any delivery delays for my order?,Delivery Time
+My order was delivered to the wrong address. What should I do?,Shipping Issues
+My package is missing. Can you help?,Shipping Issues
+Why was my order canceled?,Shipping Issues
+I received a damaged package. What now?,Shipping Issues
+"My tracking shows that my package was delivered, but I didn’t receive it.",Shipping Issues
+Why does my package say it’s been returned to sender?,Shipping Issues
+My order never arrived. What can I do?,Shipping Issues
+The shipping address on my order is incorrect. Can I fix it?,Shipping Issues
+I need to report a missing package.,Shipping Issues
+There was a problem with my delivery. Can you resolve it?,Shipping Issues
+My package was damaged during delivery. What should I do next?,Shipping Issues
+Why was my order delayed?,Shipping Issues
+I haven’t received my order yet. Can you check what happened?,Shipping Issues
+My package has been stuck in transit for days.,Shipping Issues
+The tracking information hasn’t updated in a while. Is there a problem?,Shipping Issues
+Why did my order get lost?,Shipping Issues
+I received the wrong item in my shipment.,Shipping Issues
+There appears to be an issue with my shipment. Can you investigate?,Shipping Issues
+My package was refused by the recipient. What happens now?,Shipping Issues
+I’ve been waiting too long for my package to arrive.,Shipping Issues
+What is the tracking number for my order?,Order Status
+Can I see a detailed history of my order's shipment?,Order Status
+Has my order reached my city yet?,Order Status
+What’s the latest update on my order's location?,Order Status
+Is my order on hold for any reason?,Order Status
+How do I check the real-time status of my order?,Order Status
+Has my order been handed over to the courier?,Order Status
+When was my order shipped?,Order Status
+Why is my order still not showing as shipped?,Order Status
+Is my order still in the warehouse?,Order Status
+What is the current location of my package?,Order Status
+Has my order been processed successfully?,Order Status
+Is my order stuck in one location?,Order Status
+Has my package reached the local delivery office?,Order Status
+How can I confirm if my order has been picked up by the delivery service?,Order Status
+Is my order on its way to the final destination?,Order Status
+Can I receive live updates on my order's status?,Order Status
+Has my order been shipped with express delivery?,Order Status
+Can I get a confirmation that my order has shipped?,Order Status
+Why is my order showing as pending shipment?,Order Status
+How soon can I expect my package to be delivered?,Delivery Time
+Can I get an exact time for my delivery?,Delivery Time
+What’s the fastest delivery time for my order?,Delivery Time
+"When should I expect my order, considering it was shipped yesterday?",Delivery Time
+How do I know if my package will arrive today?,Delivery Time
+Can I get same-day delivery for my order?,Delivery Time
+Could you provide an estimated delivery time based on my location?,Delivery Time
+Why is the delivery time longer than expected?,Delivery Time
+Will my order be delivered by the end of this week?,Delivery Time
+When is the earliest date I can receive my order?,Delivery Time
+Is there any way to speed up my delivery?,Delivery Time
+How many business days will it take for my order to be delivered?,Delivery Time
+What’s the expected delivery time for international orders?,Delivery Time
+Will my order be delivered over the weekend?,Delivery Time
+Why does it say my delivery has been rescheduled?,Delivery Time
+When will my package arrive if it’s been delayed?,Delivery Time
+How can I track the exact arrival time of my order?,Delivery Time
+Why is my delivery date different from what was initially promised?,Delivery Time
+What time of day should I expect my package to be delivered?,Delivery Time
+Can you confirm the delivery time for my order?,Delivery Time
+The package arrived with some items missing. What do I do?,Shipping Issues
+Why was my order returned to the sender?,Shipping Issues
+My package was delivered to the wrong place. How can I retrieve it?,Shipping Issues
+The item is marked as delivered but I didn’t get it. Can you help?,Shipping Issues
+Why is my order stuck in customs?,Shipping Issues
+I received an empty box. What should I do?,Shipping Issues
+Why was my order split into multiple shipments?,Shipping Issues
+The tracking number isn’t working properly. Can you check?,Shipping Issues
+"The carrier says they attempted delivery, but I didn’t receive anything.",Shipping Issues
+Why was my package sent back to the sender?,Shipping Issues
+"The package is damaged, and I need a replacement. What should I do?",Shipping Issues
+Why is my package marked as failed delivery?,Shipping Issues
+The order status says 'incomplete delivery.' What does that mean?,Shipping Issues
+My package is stuck at a facility for a long time. Why?,Shipping Issues
+The delivery company says my address is incorrect. How can I fix this?,Shipping Issues
+My package was delayed due to weather conditions. Can I get an update?,Shipping Issues
+I received a notification that my package was refused. What happens next?,Shipping Issues
+The package is marked as 'undeliverable.' What should I do?,Shipping Issues
+The delivery was rescheduled without my consent. Why?,Shipping Issues
+The package was delivered to my neighbor by mistake. How do I get it?,Shipping Issues
+What are your store hours?,Out of Domain
+Can I return an item without a receipt?,Out of Domain
+How can I apply a discount code to my purchase?,Out of Domain
+What is your refund policy for digital products?,Out of Domain
+Do you have any seasonal promotions?,Out of Domain
+Can I change my account email address?,Out of Domain
+Where can I find sizing information for your clothing?,Out of Domain
+How do I cancel my subscription?,Out of Domain
+Do you offer international shipping?,Out of Domain
+Are your products environmentally friendly?,Out of Domain
+Can I upgrade my membership tier?,Out of Domain
+Do you offer a student discount?,Out of Domain
+How do I delete my account?,Out of Domain
+Can I view my purchase history?,Out of Domain
+Where are your stores located?,Out of Domain
+How do I write a product review?,Out of Domain
+Do you offer customer support in other languages?,Out of Domain
+How can I contact the seller directly?,Out of Domain
+What’s the status of my product return?,Out of Domain
+Where do you source your materials?,Out of Domain
+Do you offer gift cards?,Out of Domain
+Can I modify an order after placing it?,Out of Domain
+How do I unsubscribe from marketing emails?,Out of Domain
+Do you have a physical catalog?,Out of Domain
+What’s the best way to store this product?,Out of Domain
+How long does it take to process a refund?,Out of Domain
+Do you provide gift wrapping services?,Out of Domain
+Are there any additional taxes on my purchase?,Out of Domain
+How do I track my rewards points?,Out of Domain
+What should I do if I forgot my password?,Out of Domain
+What’s the procedure for bulk orders?,Out of Domain
+Do you have any vegan product options?,Out of Domain
+Can I get a quote for a large order?,Out of Domain
+Do you provide installation services?,Out of Domain
+Can I order a sample product?,Out of Domain
+How can I update my billing information?,Out of Domain
+Do you have any products made in the USA?,Out of Domain
+What are the benefits of signing up for your newsletter?,Out of Domain
+Can I customize this product?,Out of Domain
+What’s the minimum quantity for wholesale orders?,Out of Domain
+Hello who are you,Out of Domain
+Hahahaha I hope you fine,Out of Domain
+How to solve this problem,Out of Domain
+Can you please tell me weather today?,Out of Domain
+What is the capital of Vietnam?,Out of Domain
+How many Distinct Vietnam have?,Out of Domain
+I want to buy a new laptop,Out of Domain
+Can you share me your discount?,Out of Domain
