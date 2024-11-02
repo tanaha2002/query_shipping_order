@@ -2,10 +2,10 @@
 - Base on the problem user can ask anything about related to their order, we need to determine the cluster of field that user may ask.
 
 - After a bit of time thinking, i will define the user question to 4 cluster.
-    - Order Status: Any question of user related to status of their order.
-    - Delivery Time: Any question of user related to `time shipping`, `estimate time`,...
-    - Shipping Issue: Any question of user related to problem of their order, like `wrong address`, `the order didn't come`, ...
-    - Out of Domain: And the last one is that question of user not related to our problem.
+    - `Order Status`: Any question of user related to status of their order.
+    - `Delivery Time`: Any question of user related to `time shipping`, `estimate time`,...
+    - `Shipping Issue`: Any question of user related to problem of their order, like `wrong address`, `the order didn't come`, ...
+    - `Out of Domain`: And the last one is that question of user not related to our problem.
 
 - For `Order Status` it will have 7 status:
     - Order Recieved
