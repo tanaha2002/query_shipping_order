@@ -1,7 +1,7 @@
 ### Problem Definition
 - Base on the problem user can ask anything about related to their order, we need to determine the cluster of field that user may ask.
 
-- After a bit of time thinking, i will define the user question to 4 cluster.
+- After a bit of time thinking, i will define the user question to 4 cluster and assume that each user will have their ID when they ask question, and for product (order) they ask they can choose specific one or all of product they already order. And 4 cluster will look like this:
     - `Order Status`: Any question of user related to status of their order.
     - `Delivery Time`: Any question of user related to `time shipping`, `estimate time`,...
     - `Shipping Issue`: Any question of user related to problem of their order, like `wrong address`, `the order didn't come`, ...
@@ -51,7 +51,7 @@
     ```
 - And finally, I created a simple CLI to interact with the database base on user question.
 ### Usage
-- First, clone this repo and please download the model and tokenizer from this link: Link[https://drive.google.com/file/d/1mlPL5g5YhHKUmrW-YaoPY8VYTlI3uFDe/view?usp=sharing]
+- First, clone this repo and please download the model and tokenizer from this link: https://drive.google.com/file/d/1mlPL5g5YhHKUmrW-YaoPY8VYTlI3uFDe/view?usp=sharing
 - Then put the model and tokenizer inside folder `models`, your repo will look like this:
     ```
     └───src
@@ -64,7 +64,9 @@
     └───utils
     ```
 - Then install requirement from `requirements.txt` and go to `src` folder and run the `main.py` file via CLI.
+- 
 
 ### Demo
+https://github.com/user-attachments/assets/65b9b2a2-c84b-4f06-b543-3c72b9166daf
 
 
