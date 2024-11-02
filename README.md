@@ -64,7 +64,13 @@
     └───utils
     ```
 - Then install requirement from `requirements.txt` and go to `src` folder and run the `main.py` file via CLI.
-- 
+- First, input the `customerid` you can get it from `src/data/sample_e_commerce.csv`, then input the product name of user or input "All" for query all order.
+- Then input your question to ask about your order.
+- If you want change customer, type `/ccustomer` in question field, if you want change product, type `/cproduct` in question field.
+- Finally, to exit, please type `/exit` to exit the app.
+
+### Summary
+![IMG_0010](https://github.com/user-attachments/assets/4a97b9c8-36e7-4ffe-a6e1-2a86690f74d6)
 
 ### Demo
 https://github.com/user-attachments/assets/65b9b2a2-c84b-4f06-b543-3c72b9166daf
