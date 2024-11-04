@@ -1,5 +1,3 @@
-
-
 from router.get_information import get_order_status, get_shipping_issue, check_customer_id, check_product_name, get_list_product, get_extra_information, get_delivery_time
 import os
 import sqlite3
