@@ -18,6 +18,20 @@
 ### Hand On
 #### Prepare Data
 - To create a classification model, I started by handcrafting questions. Each class has 40 questions, and `Out of Domain` class has 48 questions that I create for classification.
+  #### Example
+  ```
+    Where is my order?, Order Status
+    Has my order been shipped?, Order Status
+    Can you tell me the current status of my order?, Order Status
+    Is my order in transit?, Order Status
+    Can you give me a delivery date for my order?, Delivery Time
+    Is there any delay in the delivery of my order?, Delivery Time
+    What date will my order be come?, Delivery Time
+    Why did my order get lost?, Shipping Issues
+    I received the wrong item in my shipment., Shipping Issues
+    Why was my package sent back to the sender?, Shipping Issues
+    ...
+  ```
 
 - However, with only about 168 questions, the data is too small to test methods. Then, before testing, I augmented my data.
 
